@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borjarodrigo23
-- 👀 I’m interested in blockchain, Software Developing, Hacking & BigData
-- 🌱 I’m currently learning Solidity, Python and JAVA
+- 👀 I’m interested in AI, Big Data & Software Developing (trying to become front-end developer)
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python and JAVA
 - 💞️ Building an Start Up
 - 📫 How to reach me: www.linkedin.com/in/borjarodrigo23
 
